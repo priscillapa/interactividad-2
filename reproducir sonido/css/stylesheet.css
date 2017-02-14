@@ -1,0 +1,119 @@
+.conteiner {
+
+	margin: auto;
+	width: 1200px;
+}
+
+h1 {
+
+	font-family: 'Playfair Display', serif;
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+	font-size: 4em;
+	padding: 50px;
+
+}
+
+body {
+
+	background-color: #391032
+}
+
+h3 {
+
+	font-family: 'Playfair Display', serif;
+	margin-bottom: 10px; 
+}
+
+
+
+p {
+
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+
+.a1 {
+
+	background-color: orange;
+	width: 200px;
+	padding: 20px;
+	height: 328px;
+}
+
+.a1:hover{
+
+	background-color: white;
+}
+
+
+.a2 {
+
+	background-color: red;
+	width: 200px;
+	padding: 20px;
+	height: 295px;
+}
+
+.a2:hover{
+
+	background-color: white;
+}
+
+
+
+.a3 {
+
+	background-color: green;
+	width: 200px;
+	padding: 20px;
+	height: 280px;
+}
+
+.a3:hover{
+
+	background-color: white;
+}
+
+audio {
+
+	width: 70px;
+	margin-left: 65px;
+}
+
+.a4 {
+
+	background-color: pink;
+	width: 200px;
+	padding: 20px;
+	height: 242px;
+}
+
+.a4:hover{
+
+	background-color: white;
+}
+
+
+
+.a5 {
+
+	background-color: yellow;
+	width: 200px;
+	padding: 20px;
+	height: 372px;
+}
+
+.a5:hover{
+
+	background-color: white;
+}
+
+
+.cuadros div {
+
+	float: left;
+}
+
