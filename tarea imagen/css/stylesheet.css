@@ -1,0 +1,104 @@
+.foto1 {
+
+	margin: 5px;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+
+.foto2 {
+
+	margin: 5px;
+	margin-top: 20px;
+}
+
+.foto3 {
+
+	margin: 5px;
+	margin-top: 20px;
+}
+
+.foto4 {
+
+	margin: 5px;
+	margin-top: 20px;
+}
+
+.foto5 {
+
+	margin: 5px;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+
+.foto6 {
+
+	margin: 5px;
+	margin-top: 20px;
+}
+
+.foto7 {
+
+	margin: 5px;
+	margin-top: 20px;
+}
+
+.foto8 {
+
+	margin: 5px;
+	margin-top: 20px;
+}
+
+.foto9 {
+
+	margin: 5px;
+	margin-left: 335px;
+	margin-top: 20px;
+}
+
+.foto10 {
+
+	
+	margin: 5px;
+	margin-top: 20px;
+}
+
+.fotoss {
+
+
+	width: 1280px;
+	align-self: center;
+
+
+}
+
+h1 {
+
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 2px;
+	letter-spacing: 7px;
+	margin: 20px;
+	text-align: center;
+
+
+}
+
+p {
+
+	width: 500px;
+	font-family: 'Lora', serif;
+	text-align: center;
+	margin-left: 400px;
+}
+
+.conteiner {
+
+	width: 1280px;
+	margin:auto;
+}
+
+footer {
+
+	margin-top: 50px;
+	width: 100%;
+	height: 20px;
+}
